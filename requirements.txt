@@ -2,3 +2,5 @@ numpy>=1.24
 open3d>=0.18
 plyfile>=1.0
 viser>=1.1.1
+pandas>=2.0
+torch>=2.0
