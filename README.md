@@ -8,8 +8,7 @@ environment to begin with.
 
 INSTALL STEPS:  
 
-1)
-git clone https://github.com/oYlinen/Soluin_hackathon  
+1) git clone https://github.com/oYlinen/Soluin_hackathon  
 cd Soluin_hackathon  
 pip install -r requirements.txt  
 Download point cloud data and have it on the Soluin_hackathon folder: https://drive.google.com/file/d/1MrwNjHxFqk5IfHpJQ24KlTn5nAAn40rd/view?pli=1  
