@@ -1,0 +1,7 @@
+asset_class,criticality,condition_state,issue_code,recommended_next_check
+valve,A - production critical,healthy,NORMAL,monitor
+valve,A - production critical,degraded,POSITION_DEVIATION,verify control and mechanics
+pressure_sensor,B - important,degraded,MISALIGNMENT,inspect alignment
+valve_handle,C - standard,healthy,NORMAL,monitor
+pressure_sensor,C - standard,healthy,NORMAL,monitor
+valve_handle,C - standard,healthy,NORMAL,monitor
