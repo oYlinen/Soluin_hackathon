@@ -2,7 +2,7 @@ Versatile Lightweight Pipeline to Segment and Label Objects from 3D Gaussian Spl
 
 Project for the Since AI Hackathon 2026: Team Soluin  
 
-Authors: Olli Ylinen, Jaakko Vihuri Nokia Win  
+Authors: Olli Ylinen, Jaakko Vihuri and Nokia Win  
 
 Valmet Challenge: Segment and label objects from 3D Gaussian splatting data inside a factory  
 
