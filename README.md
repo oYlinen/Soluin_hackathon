@@ -4,7 +4,7 @@ Project for the Since AI Hackathon 2026: Team Soluin
 
 Authors: Olli Ylinen, Jaakko Vihuri and Nokia Win  
 
-Valmet Challenge: Segment and label objects from 3D Gaussian splatting data inside a factory  
+Valmet Challenge: Industrial Metaverse: Semantic 3D Scene Understanding & Autonomous Field-Service Copilot  
 
 Methods:  
 Versitile lightweight pipeline to segment and label objects from 3D Gaussian splatting data, demo in a factory setting.  
